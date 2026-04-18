@@ -47,7 +47,7 @@ This project analyzes retail sales data to identify key revenue drivers, profita
 
 
 
-!\[Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 
 
